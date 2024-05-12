@@ -43,7 +43,6 @@ header div {
 }
 .error{
     /* outline: 1px solid black; */
-    background-color: lightgrey;
     height: 10vh;
     width: 75%;
     margin-bottom: 4rem;
